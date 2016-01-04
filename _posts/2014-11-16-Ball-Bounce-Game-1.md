@@ -13,7 +13,7 @@ is what I used for this project.
 
 #Running the Game
 Download the following compressed file and run the executable called ‘LaunchGame.exe’.
-[bouncingball.zip]({{ site.url }}/assets/BouncingBall.zip "BouncingBall.zip")
+[bouncingball.zip]({{ site.url }}/assets/BouncingBalls.zip "BouncingBall.zip")
 
 #Game Instructions
 The game will automatically begin and balls will be generated at a random three
