@@ -1,3 +1,8 @@
+---
+layout: post
+title: Game Development Project 1
+---
+
 #Learning Objectives
 This project served as an initial introduction to our game development
 engine. I chose to use the Unity game engine due to its popularity, community,
