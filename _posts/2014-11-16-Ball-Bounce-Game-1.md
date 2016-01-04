@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Game Development Project 1
+title: Unity Development - Project 1
 ---
 
-#Learning Objectives
 This project served as an initial introduction to our game development
 engine. I chose to use the Unity game engine due to its popularity, community,
 available assets and the overall challenge of trying to make a game that looks and
@@ -11,11 +10,7 @@ plays great. Unity allows you to use several different languages to include C# w
 is what I used for this project.
 
 #Running the Game
-To start playing the ball bouncing game navigate to the following directory:
-`/BouncingBalls/`
-
-Inside the ‘BouncingBalls’ directory, you will find a Windows executable called
-‘LaunchGame.exe’.
+Download the following Windows executable called ‘LaunchGame.exe’.
 
 #Game Instructions
 The game will automatically begin and balls will be generated at a random three
@@ -34,7 +29,7 @@ plans for Unity. There may be some sort of testing framework that exists however
 don’t feel confident enough to use one yet.
 
 
-References
+#References
 Answers.unity3d.com,. (2014). how do I change the color of a sphere? - Unity
 Answers. Retrieved 17 November 2014, from http://answers.unity3d.com/
 questions/617059/how-do-i-change-the-color-of-a-sphere-1.html
