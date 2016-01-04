@@ -3,6 +3,8 @@ layout: post
 title: Unity Development - Project 1
 ---
 
+![screenshot]({{ site.url }}/assets/Game.tiff)
+
 This project served as an initial introduction to our game development
 engine. I chose to use the Unity game engine due to its popularity, community,
 available assets and the overall challenge of trying to make a game that looks and
