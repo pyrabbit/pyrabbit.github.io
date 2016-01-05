@@ -3,6 +3,8 @@ layout: post
 title: Unity Development - Project 2
 ---
 
+![screenshot]({{ site.url }}/assets/project2.jpg)
+
 For this project, we expanded upon the ball and cube model that we have
 been developing over the past few weeks. To include what we had done previously,
 some of the main features we had to include with this iteration were:
@@ -15,6 +17,7 @@ generate within the bounds of their respective parents.
 
 #Running the Game
 Download and extract the falling zip file:
+[bouncingball.zip]({{ site.url }}/assets/BouncingBalls2.zip "BouncingBalls2.zip")
 
 Inside the ‘OrahoodProject2’ directory, you will find a Windows executable called
 ‘OrahoodProject2.exe’.
